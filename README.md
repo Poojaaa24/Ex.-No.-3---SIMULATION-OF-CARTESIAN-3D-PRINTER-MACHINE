@@ -59,9 +59,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-
-### Name: 
-### Register Number:
+<img width="1499" height="900" alt="image" src="https://github.com/user-attachments/assets/eb24609c-f003-4672-af31-c150a9013bac" />
+### Name: POOJA U
+### Register Number: 212225230209
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
